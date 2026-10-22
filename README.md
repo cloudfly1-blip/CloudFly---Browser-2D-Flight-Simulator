@@ -70,11 +70,3 @@ Getting started is simple:
 https://cloudfly6-a.serbes1.workers.dev
 
 If the game does not load, try refreshing the page or opening the link in another supported browser.
-
-## 🖥️ Browser Compatibility
-
-CloudFly runs online, so the browser you use can affect the experience.
-
-Recommended troubleshooting steps:
-
-- Use an up
