@@ -71,5 +71,4 @@ https://cloudfly6-a.serbes1.workers.dev
 
 If the game does not load, try refreshing the page or opening the link in another supported browser.
 
-<img width="1920" height="1080" alt="Ekran Görüntüsü (6)" src="https://github.com/user-attachments/assets/105963de-b8e7-4258-86dc-e568fee670b9" />
-
+<img width="1920" height="1080" alt="Ekran Görüntüsü (7)" src="https://github.com/user-attachments/assets/1a5af377-3aa6-4f65-8937-3cdbf437f754" />
